@@ -1697,4 +1697,4 @@ const output = users.reduce(function (acc, curr) {
 
 ---
 
-SOURCE: [Namaste 🙏 JavaScript by Akshay Saini](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
+SOURCE: [Namaste 🙏 JavaScript by Akshay Saini]
